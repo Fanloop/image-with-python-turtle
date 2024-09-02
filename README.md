@@ -35,7 +35,7 @@ No special installation required. Just ensure you have Python installed on your 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/python-turtle-art-collection.git
+   git clone https://github.com/Fanloop/image-with-python-turtle.git
    ```
 
 2. Navigate to the project directory:
